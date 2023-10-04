@@ -18,8 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-
-      <h1>hello, Mundo</h1>
+      <p className='text-xl-start bg-primary'>hello, Mundo</p>
     </div>
   );
 }
