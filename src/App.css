@@ -31,10 +31,7 @@
 
 }
 
-.text-title-header {
-  font-size: 5.1rem;
-  color: #fff;
-}
+
 
 .text-hd-title {
 
@@ -77,4 +74,78 @@
 
 .text-color-light {
   color: #fff;
+}
+
+.body-bg {
+  background-color: #0B2027;
+}
+
+.line-img {
+
+  background-image: url(./assests/route-line.png);
+  background-size: cover;
+  height: 90vi;
+}
+
+.about-container {
+  position: relative;
+}
+
+.about-text-container {
+  position: absolute;
+
+
+  top: 50%;
+  left: 55%;
+  right: 0%;
+
+}
+
+.text-size-xl {
+  font-size: 5.5rem;
+  color: #fff;
+}
+
+.text-size-lg {
+  font-size: 4rem;
+}
+
+.text-size-md {
+  font-size: 1.5rem;
+}
+
+.text-size-sm{
+  font-size: 1rem;
+}
+
+
+.icon-size {
+  height: 2.4rem;
+  width: 2.4rem;
+}
+
+.btn-actions {
+
+  display: flex;
+  flex-direction: row;
+
+  background-color: #C952E1;
+
+
+
+  padding: 0.6rem;
+  color: white;
+  border-radius: 1rem;
+
+  border: #C952E1;
+
+  font-size: 1.8rem;
+
+}
+
+.download-section {
+  flex-direction: column;
+  display: flex;
+  justify-content: space-evenly;
+
 }
