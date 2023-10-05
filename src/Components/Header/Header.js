@@ -12,7 +12,7 @@ const Header = () => {
                 <div className="bg-image"></div>
                 <div className='col header-text-container bg-dark d-flex justify-content-center'>
                     <div>
-                        <h1 className='text-title-header'>Find a aplace and meet new friends</h1>
+                        <h1 className='text-size-xl'>Find a aplace and meet new friends</h1>
                         <br></br>
                     </div>
                 </div>
