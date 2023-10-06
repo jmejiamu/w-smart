@@ -76,6 +76,10 @@
   color: #fff;
 }
 
+.text-color-dark {
+  color: #0B2027;
+}
+
 .body-bg {
   background-color: #0B2027;
 }
@@ -149,3 +153,20 @@
   justify-content: space-evenly;
 
 }
+
+.footer-bg-color {
+  background-color: #D9D9D9;
+}
+
+.footer-link-section {
+  flex-direction: row;
+  list-style-type: none;
+
+}
+
+.footer-media-section {
+  flex-direction: row;
+  display: flex;
+  list-style-type: none; 
+}
+
